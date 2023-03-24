@@ -1,1 +1,2 @@
-# React-Day2-React-Component-main
+# React-Day2-React_Component
+class
